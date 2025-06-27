@@ -1,0 +1,30 @@
+module.exports = [
+  
+"masturbation and whiskey",
+"you've actually really hurt me. please don't do it again.", 
+"When I was young, I thought that getting your period was a terminal illness.",
+"The last time I said hello was to a friend that I don't ever go further with than saying hello.", 
+"I think sometimes that is all I need to consider someone a friend.",
+"I wish I would have said 'goodbye' one last time.", 
+"Cuddles, and humor",
+"Back",
+"Keep moving until other feelings take place of the old ones.",
+"I going my best! I'm going to do great things",
+"Acid",
+"An hour ago",
+"Their warm arms tightly holding me",
+"Time, patience, practice, kindness",
+"Wednesday",
+"My happiest day was during the summer driving around in a car with friends. We were listening to music and singing in the car while the sun was setting. ",
+"When I was younger, about 5 years old, I remember feeling very alone at school. It was recess and I was walking around in a secluded part of the school. There was a little ditch, and I fell in it and scraped my knee. I remember how lonely I felt, but in that moment I looked down and saw the bruising and dirt and blood. I remember looking at it in awe. I remember feeling like I understood that my body was important in that moment, that it was all temporary. I remember feeling safe in that, I remember feeling like the world was kind",
+"The history people have attached to me",
+"I miss feeling like I was on top of the world, that nothing can stop me, that I was strong. Now I feel scared and like every word I say is that of a fool",
+"My previous relationship and how heavily manipulation has affected me, despite never sharing that with others.",
+"I need to hear that I am going to get an internship, my family is safe and the sun will shine again.",
+"I stole chapstick during my last shift at 5 below in October",
+"Him and is stupid opinions about me",
+"Get Some Rest, Get Some Rest, Get Some Rest.",
+"Meeting Dan Povenmire (he literally shaped my childhood)",
+"I miss the bliss of childhood ignorance "
+
+]

@@ -1,0 +1,134 @@
+/* how do i get these styles on to my js file? 
+ */
+@media only screen and (max-width: 414px) {
+  body {
+    /*     background: #D4A3AA; */
+    background: black;
+  }
+  h1 {
+  
+  font-family: "source-code-pro", monospace;
+  font-size: 10pt;
+  font-weight: 400;
+  font-style: normal;
+  color: #9cfb04; 
+  
+  }
+
+  h2 {
+    font-family: "source-code-pro", monospace;
+    font-size: 20pt;
+    font-weight: 400;
+    font-style: normal;
+    color:#9cfb04; 
+  }
+  h3 {
+    font-family: "source-code-pro", monospace;
+    font-weight: 400;
+    font-style: normal;
+    color:#9cfb04;
+  }
+
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+    grid-template-rows: 50px 150px 150px 150px 150px;
+  }
+  .item1 {
+    grid-column-start: 2;
+    grid-column-end: 5;
+    grid-row-start: 2;
+    grid-row-end: 4;
+  }
+
+  .item2 {
+    grid-column-start: 2;
+    grid-column-end: 7;
+    grid-row-start: 2;
+    grid-row-end: 3;
+  }
+
+  .title {
+    grid-column-start: 1;
+    grid-column-end: 9;
+    grid-row-start: 1;
+    grid-row-end: 2;
+  }
+  
+  .footer{
+     grid-column-start: 1;
+    grid-column-end: 9;
+    grid-row-start: 5;
+    grid-row-end: 6;
+  }
+  #myBtn {
+    background-color: black;
+    border: solid;
+    opacity: 0.95;
+    color: white;
+    padding: 10px 22px;
+     font-family: "source-code-pro", monospace;
+    font-size: 8pt;
+     font-weight: 400;
+     font-style: normal;
+    color: #9cfb04; 
+    
+  }
+  /*  keyframe chaining  */
+  .btnanim {
+    animation-name: colorFlip;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+  }
+
+  
+  
+  @keyframes colorFlip {
+    0% {
+      background-color: black; 
+      color: #9cfb04;
+    }
+    
+    50%{
+      background-color:#9cfb04;
+      color:black;
+    }
+    
+     100% {
+      background-color: black; 
+      color: #9cfb04;
+    }
+  }
+
+
+.item3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 150px 150px 150px 150px;
+}
+
+.clientResponse {
+  grid-column-start: 1;
+  grid-column-end: 7;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  margin: 20px;
+}
+
+.arrayInfo {
+  background: white;
+  border: solid;
+  font-family: "ltc-flash", sans-serif;
+  font-weight: 400;
+  font-size: 20pt;
+  font-style: normal;
+  color: red;
+}
+  
+  .click{
+    justify-self: center;
+    width: 50vw;
+  }
+  
+
+}
